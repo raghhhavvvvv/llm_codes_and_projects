@@ -1,0 +1,16 @@
+typing-extensions
+langchain-classic
+python-dotenv
+langchain
+pythonnet
+langchain_community
+langchain-huggingface
+langserve[all]
+langchain-ollama
+langchain_groq
+langchain_core
+groq
+fastapi
+sse_starlette
+langchain_chroma
+notebook
